@@ -1,0 +1,18 @@
+ Ejemplos VÁLIDOS
+Puedes copiarlos tal cual:
+
+4532015112830366 → Válido (Visa)
+
+4485275742308327 → Válido (Visa)
+
+378282246310005 → Válido (American Express)
+
+371449635398431 → Válido (American Express)
+
+ Ejemplos INVÁLIDOS
+Estos deberían dar NO válido:
+
+ (un dígito cambiado)
+
+1234567890123456 (invento)
+
