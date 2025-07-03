@@ -17,3 +17,4 @@ if luhn_check(card_input):
     print("✅ El número ES válido (pasa el algoritmo de Luhn).")
 else:
     print("❌ El número NO es válido (no pasa el algoritmo de Luhn).")
+#ejemplos de tarjetas estan en archivo tarjetas.txt

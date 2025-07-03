@@ -34,4 +34,4 @@ rl.question('Ingresa el número de tarjeta para verificar: ', (cardNum) => {
 });
 
 //node luhn.js
-// hay que tener instalado node para hacerlo correr
+// hay que tener instalado node para hacerlo correr, ejemplos de tarjetas estan en archivo tarjetas.txt
